@@ -1,3 +1,4 @@
+# Below code is example to implement Stack from array 
 ```
 class Stack {
     int top;
